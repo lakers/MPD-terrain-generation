@@ -1,0 +1,3 @@
+
+MPD
+MPD.jar,core.jar
